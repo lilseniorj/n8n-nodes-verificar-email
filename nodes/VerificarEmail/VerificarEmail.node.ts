@@ -11,7 +11,7 @@ export class VerificarEmail implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'Verificar Email',
 		name: 'verificarEmail',
-		icon: 'file:email.png',
+		icon: 'file:email.svg',
 		group: ['transform'],
 		version: 1,
 		description: 'Verificar la validez de un correo electronico usando emailable.com',
