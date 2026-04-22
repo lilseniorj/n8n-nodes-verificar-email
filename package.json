@@ -1,5 +1,5 @@
 {
-	"name": "n8n-nodes-verificaremail",
+	"name": "n8n-nodes-verificar-email-api",
 	"version": "0.1.4",
 	"description": "n8n node to verify email addresses using the Verificar API",
 	"license": "MIT",
